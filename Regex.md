@@ -6,6 +6,24 @@
 
 <div dir=rtl>
 
+# به زبان‌های دیگر بخوانید
+
+
+* [English](README.md)
+* [Español](translations/README-es.md)
+* [Français](translations/README-fr.md)
+* [Português do Brasil](translations/README-pt_BR.md)
+* [中文版](translations/README-cn.md)
+* [日本語](translations/README-ja.md)
+* [한국어](translations/README-ko.md)
+* [Turkish](translations/README-tr.md)
+* [Greek](translations/README-gr.md)
+* [Magyar](translations/README-hu.md)
+* [Polish](translations/README-pl.md)
+* [Русский](translations/README-ru.md)
+* [Tiếng Việt](translations/README-vn.md)
+
+
 
 
 
@@ -18,5 +36,60 @@
 یک لحظه تصور کنید که دارید اپلیکشنی می‌نویسید که کاربر می‌خواهد نام کاربری خود را انتخاب کند که داری حروف، کاراکتر و اعداد باشد. همچنین تعداد کاراکترهای کاربر محدود باشد به نظر زیبا باشد. برای این کار کافی است از عبارت زیر استفاده کنید:
 
 ![pic2](./img/img_fa.png)
+
+
+رجکس بالا عبارت های مانند `john_doe, jo-hn_doe, john12_` را می‌تواند بگیرد. همچین عبارت مانند `Jo` را نمی‌گیرد اول از همه چون با حروف بزرگ است دومن رشته‌ی بسیار کوتاه است.
+
+# فهرست مطالب
+
+
+مشابه‌ها
+
+متاداده‌ها
+
+علامت‌نقطه
+
+مجموعه‌ی از کاراکترها
+
+تنظیم کاراکترهای منفی
+
+تکرارها
+
+علامت‌ستاره
+
+علامت‌پلاس
+
+علامت‌سوال
+
+علامت پرانتز
+
+علامت براکت
+
+جایگزین‌ها
+
+محافظ
+
+لنگرها
+
+کالسکه
+
+علامت دلار
+
+مجموعه‌های دامنه‌ها اختصاری
+
+جستجوی مثبت منفی
+
+جستجوی خنثی
+
+پرچم‌ها
+
+جستجوی بی‌عیب و نقص
+
+جستجوی کلی
+
+جتسجوی چند‌خطه
+
+خسیس دربرابر تطلبق تنبل
+
 
 
