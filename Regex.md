@@ -200,3 +200,33 @@ s
 [رجکس را اجرا کن](https://regex101.com/r/nNNlq3/1)
 
 
+# تکرارها
+
+علامت‌های `*`، `+` و `?` برای نشان دادن این است که چند بار کلاس‌ها تکرار شوند. این رجکس‌ها بستگی به شرایط ممکن متفاوت عمل کنند.
+
+# علامت ستاره
+
+علامت ستاره نشان تعداد تکرار دفعات است (صفر یا بیشتر). عبارت  `*a` بدان معنی است آ و هر کاراکتری که بود. پس بعد از کاراکتر آ هر کاراکتر ممکن است ظاهر شود.برای مثال : پیدا کردن تعداد تکرار مجموعه‌ی تمامی کاراکترها، باید به این روش عمل کنیم
+
+<div dir=ltr>
+
+`[a-z]*`
+
+تعداد تمامی حروف کوچیک در هر خط
+<div dir=rtl>
+
+
+<div dir=ltr>
+
+<pre>
+"[a-z]*" => T<a href="#learn-regex"><strong>he</strong></a> <a href="#learn-regex"><strong>car</strong></a> <a href="#learn-regex"><strong>parked</strong></a> <a href="#learn-regex"><strong>in</strong></a> <a href="#learn-regex"><strong>the</strong></a> <a href="#learn-regex"><strong>garage</strong></a> #21.
+</pre>
+
+
+<div dir=rtl>
+
+
+[رجکس را اجرا کن](https://regex101.com/r/7m8me5/1)
+
+
+
